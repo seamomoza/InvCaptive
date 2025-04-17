@@ -1,0 +1,8 @@
+name: InvCaptive
+version: '0'
+main: io.github.seamo.invCaptive.InvCaptive
+api-version: '1.21'
+authors: [ SEAMO ]
+description: My Plugin
+commands:
+  captive:
